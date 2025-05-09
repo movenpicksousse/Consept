@@ -61,7 +61,7 @@ body, html {
  font-family:  sans-serif;
  -webkit-animation: shift 2s ;
  animation: shift 2s ;
- margin-top: 90px;
+ margin-top: 75px;
  text-align:center;
  text-transform:uppercase;
  margin-right: 25px;
@@ -74,7 +74,7 @@ h2 {
 @keyframes shift {
  0% {opacity:0;}
  33% {margin-top:0px;opacity:0;}
- 100% {margin-top: 90px; opacity:1; text-shadow: 
+ 100% {margin-top: 75px; opacity:1; text-shadow: 
      4px 4px 0px #d5d5d5, 
      7px 7px 0px rgba(0, 0, 0, 0.2);}
 }
